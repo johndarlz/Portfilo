@@ -61,11 +61,9 @@ In your GitHub repo, go to **Settings → Secrets → Actions**, and add:
 ### 4. Create Workflow
 - Add `.github/workflows/deploy.yml` with the deployment script
 
+
 ### 5. Push Your Code
-```bash
-git add .
-git commit -m "Deploy to S3 using GitHub Actions"
-git push origin main
+
 
 
 🌐 http://john-portfilo.s3-website.ap-south-1.amazonaws.com/
