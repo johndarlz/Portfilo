@@ -3066,6 +3066,19 @@ ul.smothscroll a:hover {
     margin-bottom: 20px
 }
 
+.static-hero .hero-inner .slide-content .slide-sub-title h6,
+.static-hero .slide-inner .slide-content .slide-sub-title h6,
+.wpo-hero-slider .hero-inner .slide-content .slide-sub-title h6,
+.wpo-hero-slider .slide-inner .slide-content .slide-sub-title h6,
+.wpo-hero-style-3 .hero-inner .slide-content .slide-sub-title h6,
+.wpo-hero-style-3 .slide-inner .slide-content .slide-sub-title h6 {
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    color: #59c378;
+    margin-bottom: 20px
+}
+
 @media(max-width:1199px) {
 
     .static-hero .hero-inner .slide-content .slide-sub-title h5,
@@ -3419,6 +3432,13 @@ ul.smothscroll a:hover {
     }
 }
 
+.static-hero .slide-sub-title h6 {
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    color: #59c378;
+    margin-bottom: 20px
+}
 .static-hero .slide-sub-title h5 {
     font-weight: 600;
     font-size: 32px;
