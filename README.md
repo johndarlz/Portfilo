@@ -13,7 +13,19 @@ This project is a **simple static website** (HTML) that is **automatically deplo
 
 ---
 
+## 🛠️ Tools Used
 
+| Tool | Purpose |
+|------|---------|
+| **HTML** | To build the static web page (`index.html`) |
+| **GitHub** | To host and manage code repository |
+| **GitHub Actions** | For CI/CD pipeline to deploy website automatically |
+| **AWS S3** | To host the static website |
+| **AWS IAM** | For secure access to AWS services via programmatic credentials |
+| **YAML** | Used for GitHub Actions workflow configuration |
+| **Markdown** | For creating project documentation (`README.md`) |
+
+---
 ---
 
 ## ⚙️ How It Works
